@@ -7,5 +7,3 @@ Here at Botho, we're building more than just a marketplace; we're creating a com
 Dive into our repositories to explore the tech powering Botho, contribute to our growth, and help us shape the future of premium goods. Whether it’s through improving user experience, enhancing platform security, or contributing to our blog with insights on fashion, leadership, and entrepreneurship, your skills and passion are what make Botho thrive.
 
 Let's build something great together. Welcome aboard!
-
-![Botho Logo](/assets/black-lettering-logo.png)
